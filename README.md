@@ -1,6 +1,6 @@
 # background-generator
 
-Hier kannst du spielend einfach beeindruckende Farbverläufe erstellen, indem du zwei Farben auswählst, die sich nahtlos miteinander vermischen. Der benutzerfreundliche Generator generiert nicht nur den visuellen Farbverlauf, sondern stellt dir auch den entsprechenden CSS-Code zur Verfügung, den du direkt in dein Webprojekt einbinden kannst.
+Spielend einfach beeindruckende Farbverläufe erstellen, indem du zwei Farben auswählst, die sich nahtlos miteinander vermischen. Der benutzerfreundliche Generator generiert nicht nur den visuellen Farbverlauf, sondern stellt dir auch den entsprechenden CSS-Code zur Verfügung, den du direkt in dein Webprojekt einbinden kannst.
 
 So funktioniert es:
 
